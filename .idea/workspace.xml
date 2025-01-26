@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88230e50-5a30-4b81-9fa1-c3929d1cc036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edtech_ai/core/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edtech_ai/core/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edtech_ai/core/utils.py" afterDir="false" />
+    <list default="true" id="88230e50-5a30-4b81-9fa1-c3929d1cc036" name="Changes" comment="first upload">
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/components/Assignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/components/Summary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/components/VideoInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/pages/Process.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edtech_ai/edtech-ai-frontend/src/pages/QuestionsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech_ai/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/edtech_ai/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edtech_ai/core/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/edtech_ai/core/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +33,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2rzD9mvCUj8PIW7MP5jXMLTVmaH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +61,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -65,6 +86,64 @@
       <option name="presentableId" value="Default" />
       <updated>1737552861063</updated>
     </task>
+    <task id="LOCAL-00001" summary="first upload">
+      <option name="closed" value="true" />
+      <created>1737557409918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737557409918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ba5ed4cd-4ef6-409d-ac4c-46c16ee3a7c2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="ba5ed4cd-4ef6-409d-ac4c-46c16ee3a7c2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="first upload" />
   </component>
 </project>
